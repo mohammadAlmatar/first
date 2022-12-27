@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "570459265954",
+    "project_id": "social-app-5247b",
+    "storage_bucket": "social-app-5247b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570459265954:android:a7f3156a878c0414f970fb",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570459265954-c8j1ta6vmjove17v0pu5o1362epgods4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social_app",
+            "certificate_hash": "a83effa170c80b8aaf6acb195234a7f6772430fe"
+          }
+        },
+        {
+          "client_id": "570459265954-l9vdcqsd8kkfmphv62i568hp34k6nq4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAuhSNKmtLLNSONejyyVZJrJdToxjgIR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570459265954-l9vdcqsd8kkfmphv62i568hp34k6nq4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
